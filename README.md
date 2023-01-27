@@ -72,8 +72,8 @@ Tech Stack:
         
 | Layers | Technology |
 | ------------- | ------------- |
-| Front end | Angular13 |
-| Back end | Node.js, JSON, Yelp API |
+| Front end | Angular13, Bootstrap5 |
+| Back end | Node.js, JSON, Yelp API, GoogleMaps API |
   
 </td>
 <td>
@@ -83,7 +83,7 @@ Tech Stack:
 | Layers | Technology |
 | ------------- | ------------- |
 | Client-side | Android Studio (Java) |
-| Server-side | Node.js, JSON, Yelp API |
+| Server-side | Node.js, JSON, Yelp API, GoogleMaps API |
   
 </td>
 </tr>
