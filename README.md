@@ -41,7 +41,7 @@ Tech Stack:
 
 | Layers | Technology |
 | ------------- | ------------- |
-| Front end | HTML5, CSS3, Javascript  |
+| Front end | HTML5, CSS3, AJAX |
 | Back end | Python Flask, JSON, Yelp API |
   
 </td>
