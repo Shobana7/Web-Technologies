@@ -42,7 +42,7 @@ Tech Stack:
 | Layers | Technology |
 | ------------- | ------------- |
 | Front end | HTML5, CSS3, AJAX |
-| Back end | Python Flask, JSON, Yelp API |
+| Back end | Python Flask, JSON, Yelp API, IPinfo.io API |
   
 </td>
 </tr>
@@ -73,7 +73,7 @@ Tech Stack:
 | Layers | Technology |
 | ------------- | ------------- |
 | Front end | Angular13, Bootstrap5 |
-| Back end | Node.js, JSON, Yelp API, GoogleMaps API |
+| Back end | Node.js, JSON, Yelp API, GMaps API, IPinfo API |
   
 </td>
 <td>
@@ -83,7 +83,7 @@ Tech Stack:
 | Layers | Technology |
 | ------------- | ------------- |
 | Client-side | Android Studio (Java) |
-| Server-side | Node.js, JSON, Yelp API, GoogleMaps API |
+| Server-side | Node.js, JSON, Yelp API, GMaps API, IPinfo API |
   
 </td>
 </tr>
